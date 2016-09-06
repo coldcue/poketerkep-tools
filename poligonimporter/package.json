@@ -1,0 +1,16 @@
+{
+  "name": "poligonimporter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.4.11",
+    "jsdom": "^9.4.1",
+    "togeojson": "^0.13.0"
+  }
+}
